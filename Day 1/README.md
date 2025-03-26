@@ -1,3 +1,1 @@
-# Day 1
-
-This is the README for Day 1.
+# This is the what we learned in Day 1
