@@ -8,3 +8,13 @@
 # 5 if the marks are greater than or equal to 60, the grade should be D
 
 
+marks = float(input("Enter the marks of student:: "))
+
+if marks >= 90:
+    print("print your grade is A")
+elif marks >=80:
+    print("y0ur grade is B")
+elif marks >=70:
+    print('your grade is c')
+else:
+    print("your grade is d")
