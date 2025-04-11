@@ -6,3 +6,12 @@ while num >= 0:
 
 
 print("end")
+
+# better code 
+
+while True:
+    number = int(input("Enter a number (negative to stop): "))
+    if number < 0:
+        break
+    print(f"You entered: {number}")
+    
