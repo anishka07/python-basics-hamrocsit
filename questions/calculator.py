@@ -1,2 +1,2 @@
 # use functions to make a fully functional calculator, each function should be a different operation (add, subtract, multiply, divide). if the user chooses 1, add, if the user chooses 2, subtract, etc.
-# make sure to use functions and not just a big if else statement
+# make sure to include error handling for division by zero and invalid input
