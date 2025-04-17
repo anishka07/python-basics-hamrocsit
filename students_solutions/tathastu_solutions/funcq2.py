@@ -7,3 +7,5 @@ def odd_even(n):
   return "odd"
 ans = odd_even(11)
 print(f"the number is {ans}")
+
+# give some space, make your code clean 

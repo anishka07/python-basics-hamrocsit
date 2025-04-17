@@ -2,9 +2,10 @@
 
 def factorial_number(facto):
     result = 1
-    for i in range(1, facto  + 1):
+    for i in range(1, facto + 1):
         result *= i
     return result
 
-answer = factorial_number(9)
+
+answer = factorial_number(5)
 print(f"factorial is {answer}")
